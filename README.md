@@ -1,5 +1,4 @@
-# shamo_flutter
-
+# My First Flutter Project
 Flutter Project Portofolio
 
 ## Getting Started
