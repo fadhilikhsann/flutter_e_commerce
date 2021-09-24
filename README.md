@@ -1,6 +1,11 @@
 # My First Flutter Project
 Flutter Project Portofolio
 
+## Description
+
+I took the Flutter Developer class from BuildWith Angga website which will also be my first Flutter project portfolio. I create a multi-platform online shoe store application using Flutter and a REST API using Laravel. You can see the back-end project documentation on my GitHub repository link below:<br><br>
+https://github.com/fadhilikhsann/BE_flutter_e_commerce<br>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
